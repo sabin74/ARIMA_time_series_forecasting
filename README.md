@@ -19,9 +19,9 @@ This project demonstrates time series forecasting using **AR**, **ARIMA**, and *
 
 
 ## 🚦 Project Workflow
-## 1. Data Preprocessing
-## 2. Exploratory Data Analysis (EDA)
-## 3. ACF & PACF
-## 4. AR and ARIMA Modeling
-## 5. SARIMA Modeling
-## 6. Forecasting & Evaluation
+ 1. Data Preprocessing
+ 2. Exploratory Data Analysis (EDA)
+ 3. ACF & PACF
+ 4. AR and ARIMA Modeling
+ 5. SARIMA Modeling
+ 6. Forecasting & Evaluation
